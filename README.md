@@ -197,7 +197,7 @@ This project is licensed under the ISC License.
 ## 👨‍💻 Author
 
 Created by **Shridhi Gupta**  
-🔗 GitHub: [ShridhiGupta](https://github.com/ShridhiGupta)
+🔗 GitHub: [Ansh Kumar](https://github.com/anshkumar76)
 
 ---
 
